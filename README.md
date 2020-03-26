@@ -13,7 +13,7 @@ source: https://docs.flex.bi/confluence/support-center/what-is-data-cube-dimensi
 ![alt text](https://docs.flex.bi/confluence/support-center/files/48991579/48991580/1/1474886962000/cube_example.png)
 
 ## Entity-Relationship Diagram
-created with Draw.io
+created with the web application Draw.io
 
 https://support.draw.io/display/DO/Draw.io+Online+User+Manual
 
