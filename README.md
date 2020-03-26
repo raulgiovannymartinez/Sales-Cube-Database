@@ -14,6 +14,7 @@ source: https://docs.flex.bi/confluence/support-center/what-is-data-cube-dimensi
 
 ## Entity-Relationship Diagram
 created with Draw.io
+
 https://support.draw.io/display/DO/Draw.io+Online+User+Manual
 
 ![alt text](https://github.com/raulgiovannymartinez/Sales-Cube-Database/blob/master/ER_diagram.png)
