@@ -10,7 +10,7 @@ Consider a database that captures:
 ## Sales Cube Concept 
 source: https://docs.flex.bi/confluence/support-center/what-is-data-cube-dimension-and-calculated-members-48991579.html
 
-! [alt text] (https://docs.flex.bi/confluence/support-center/files/48991579/48991580/1/1474886962000/cube_example.png)
+![alt text](https://docs.flex.bi/confluence/support-center/files/48991579/48991580/1/1474886962000/cube_example.png)
 
 ## Entity-Relationship Diagram
 ![alt text](https://github.com/raulgiovannymartinez/Sales-Cube-Database/blob/master/ER_diagram.png)
