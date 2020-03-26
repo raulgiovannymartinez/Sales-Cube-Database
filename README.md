@@ -6,3 +6,8 @@ Consider a database that captures:
 - products that have a list price, a name and belong to a category
 - categories have names and descriptions
 - sales of a product to a customer capturing quantity and price paid (may be discounted on a case-by-case basis).
+
+## Entity-Relationship Diagram
+![alt text](https://github.com/raulgiovannymartinez/Sales-Cube-Database/blob/master/ER_diagram.png)
+
+
